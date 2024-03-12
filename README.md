@@ -20,6 +20,15 @@ Java was utilized in couse CS124. I am yet to push code from this course to this
 
 > **"Connect 4"**: program for simulating a variant of a 'Connect Four' board game, where functions provide the functionality needed to simulate and play the board game. 
 
+> **"Mountain Paths":** This program takes elevation data from a file and generates a ppm image file showing the shortest path from one side to the other. Red lines indicate the shortest path from a specified starting position, while a green line marks the overall shortest path. Inputs include image dimensions (rows and columns in pixels) and the data file name.
+
+> **"Seam Carving":** This program implements a Seam Carving algorithm that allows for resizing images by intelligently removing seams with low energy, preserving the important features of the image.
+
+> **"Naive Databases":** This code implements a naive in-memory database system that allows for the creation, management, and manipulation of tables with various data types and rows, providing basic functionality for database operations.
+
+> **"DNA Strand":** program that provides functionality to represent, manipulate, and splice DNA strands represented as linked lists of characters. 
+
+> **"Cord":** This code defines a data structure called Cord, which represents a string implemented as a binary tree. The Cord class provides methods for creating and manipulating instances of this data structure
 
 
 ## Notes
