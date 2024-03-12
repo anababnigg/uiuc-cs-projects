@@ -15,10 +15,10 @@ Java was utilized in couse CS124. I am yet to push code from this course to this
 
 ## Project Descriptions
 
-**CS 128:**
-> **"Hawaiian Words"**: a tool for generating the pronunciation of Hawaiian words by defining the pronunciation rules for each character and combination of characters in the language.
+### CS128:
+> **"Hawaiian Words":** a tool for generating the pronunciation of Hawaiian words by defining the pronunciation rules for each character and combination of characters in the language.
 
-> **"Connect 4"**: program for simulating a variant of a 'Connect Four' board game, where functions provide the functionality needed to simulate and play the board game. 
+> **"Connect 4":** program for simulating a variant of a 'Connect Four' board game, where functions provide the functionality needed to simulate and play the board game. 
 
 > **"Mountain Paths":** This program takes elevation data from a file and generates a ppm image file showing the shortest path from one side to the other. Red lines indicate the shortest path from a specified starting position, while a green line marks the overall shortest path. Inputs include image dimensions (rows and columns in pixels) and the data file name.
 
@@ -29,6 +29,14 @@ Java was utilized in couse CS124. I am yet to push code from this course to this
 > **"DNA Strand":** program that provides functionality to represent, manipulate, and splice DNA strands represented as linked lists of characters. 
 
 > **"Cord":** This code defines a data structure called Cord, which represents a string implemented as a binary tree. The Cord class provides methods for creating and manipulating instances of this data structure
+
+###CS225:
+> **"Stickers":** This project involves creating a sticker sheet with multiple image stickers using the `StickerSheet` class, which arranges image stickers onto a base picture and supports operations like adding, modifying, and rendering stickers. The `Image` class provides functionalities for image manipulation, such as lightening, darkening, and scaling. 
+
+> **"Lists":** program that defines a doubly linked list template class named `List` with functionalities like insertion, reversal, splitting, merging of sorted lists, and sorting using the Mergesort algorithm and iterators, encapsulating the implementation details of individual nodes in a private `ListNode` inner class.
+
+> **"Mosaics":** project entails the creation of a PhotoMosaic generator that maps tile images to rectangular sections of pixels in a source image using a k-d tree data structure, with the pool of tile images specified by a local directory.
+
 
 
 ## Notes
