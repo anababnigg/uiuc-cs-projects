@@ -30,7 +30,7 @@ Java was utilized in couse CS124. I am yet to push code from this course to this
 
 > **"Cord":** This code defines a data structure called Cord, which represents a string implemented as a binary tree. The Cord class provides methods for creating and manipulating instances of this data structure
 
-###CS225:
+### CS225:
 > **"Stickers":** This project involves creating a sticker sheet with multiple image stickers using the `StickerSheet` class, which arranges image stickers onto a base picture and supports operations like adding, modifying, and rendering stickers. The `Image` class provides functionalities for image manipulation, such as lightening, darkening, and scaling. 
 
 > **"Lists":** program that defines a doubly linked list template class named `List` with functionalities like insertion, reversal, splitting, merging of sorted lists, and sorting using the Mergesort algorithm and iterators, encapsulating the implementation details of individual nodes in a private `ListNode` inner class.
