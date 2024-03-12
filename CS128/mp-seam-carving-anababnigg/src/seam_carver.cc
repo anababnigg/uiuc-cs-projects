@@ -1,5 +1,4 @@
 #include "seam_carver.hpp"
-// implement the rest of SeamCarver's functions here
 
 const ImagePPM& SeamCarver::GetImage() const	{
   return image_;
