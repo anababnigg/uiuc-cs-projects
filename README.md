@@ -17,6 +17,7 @@ Java was utilized in couse CS124. I am yet to push code from this course to this
 
 **CS 128:**
 > "Hawaiian Words": a tool for generating the pronunciation of Hawaiian words by defining the pronunciation rules for each character and combination of characters in the language.
+
 > "Connect 4": program for simulating a variant of a 'Connect Four' board game, where functions provide the functionality needed to simulate and play the board game. 
 
 
